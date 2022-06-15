@@ -1,0 +1,10 @@
+slice_file_name,fsID,start,end,salience,fold,classID,class
+Nam8.wav,101388,22.5,26.5,7,16,7,nam
+Bac8.wav,100795,13.559155,17.559155,1,10,2,bac
+Bac9.wav,100795,14.059155,18.059155,1,10,2,bac
+Bac10.wav,101382,5,9,1,10,2,bac
+Hue8.wav,102857,8,12,1,10,0,hue
+Hue9.wav,102857,8.5,12.5,1,10,0,hue
+Hue10.wav,102857,9,13,1,10,0,hue
+Nam9.wav,101388,22.5,26.5,7,16,7,nam
+Nam10.wav,101389,23.5,27.5,8,17,8,nam
